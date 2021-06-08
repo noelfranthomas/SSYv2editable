@@ -4,8 +4,6 @@ import { graphql } from 'gatsby'
 import PageHeader from '../components/PageHeader'
 import Layout from '../components/Layout'
 
-import './GetInvolvedPage.css'
-
 // Export Template for use in CMS preview
 export const GetInvolvedPageTemplate = ({ title, subtitle, featuredImage }) => (
   <main className="GetInvolved">
