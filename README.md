@@ -1,40 +1,20 @@
-# Yellowcake
+# Stars For Sheltered Youth
 
 [![styled with prettier](https://img.shields.io/badge/styled_with-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
 [![dependencies](https://img.shields.io/david/thriveweb/yellowcake)](https://img.shields.io/david/thriveweb/yellowcake)
 
-An opinionated starter project for creating lightning-fast websites with [Gatsby](https://gatsbyjs.org) v2 and [Netlify CMS](https://netlifycms.org) v2. Made by [Thrive Web Design on the Gold Coast, Australia](https://thriveweb.com.au)
 
 - **[Gatsby](https://gatsbyjs.org)** static site generator
 - **[Netlify CMS](https://github.com/netlify/netlify-cms)** for content management
 
-## See also
+## To do
 
-[Netlify CMS Docs](https://www.netlifycms.org/docs/)  
-[Netlify CMS Repo](https://github.com/netlify/netlify-cms)
+1. Update vulnerable dependencies and remove unused ones.
+2. Design and implement 'Get Involved' page.
 
-## Get going
+**CMS**
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/thriveweb/yellowcake&stack=cms)
-
-1.  Hit the **Deploy to Netlify** button. This will:
-
-- Clone the repo into your Github account
-- Create you a new project on Netlify, build & deploy
-
-1.  Once your Netlify project has been created, check a couple of settings:
-
-- Enable **Identity**
-- Change **Registration Preferences** to **Invite Only**
-- Enable **Git Gateway**
-
-1.  Invite users (probably yourself) to enable admin access
-
-- Open the **Identity** tab and hit **Invite Users**
-
-## Show me the CMS!
-
-The CMS lives at [\_\_YOUR_SITE_NAME\_\_.netlify.com/admin](https://__YOUR_SITE_NAME__.netlify.com/admin).
+The CMS lives at [https://www.starsforshelteredyouth.com/admin](https://www.starsforshelteredyouth.com/admin).
 
 ## Developing
 
