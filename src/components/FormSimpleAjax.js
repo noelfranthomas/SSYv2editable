@@ -8,11 +8,11 @@ import './Form.css'
 class Form extends React.Component {
   static defaultProps = {
     name: 'Simple Form Ajax',
-    subject: '', // optional subject of the notification email
+    subject: 'Contact Form Submission', // optional subject of the notification email
     action: '',
     successMessage: 'Thanks for your enquiry, we will get back to you soon',
     errorMessage:
-      'There is a problem, your message has not been sent, please try contacting us via email'
+      'There is a problem, your message has not been sent, please try contacting us via email.'
   }
 
   state = {
@@ -140,7 +140,7 @@ class Form extends React.Component {
           </label>
           <div
             className="g-recaptcha"
-            data-sitekey="6LfKN3kUAAAAAGIM1CbXmaRZx3LIh_W2twn1tzkA"
+            data-sitekey="6Leca9cZAAAAAM6FlnKEmEKvD1e5GOaLw-R4ObS7"
           />
           {!!subject && <input type="hidden" name="subject" value={subject} />}
           <input type="hidden" name="form-name" value={name} />
