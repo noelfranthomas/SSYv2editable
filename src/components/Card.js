@@ -11,9 +11,9 @@ const Card = ({
 }) => {
   return (
 <div className="Card">
-    <a href={link} class={`card ${color}`}>
-     <div class="overlay"></div>
-   <div class="circle">
+    <a href={link} className={`card ${color}`}>
+     <div className="overlay"></div>
+   <div className="circle">
        <img src={image} alt=""/>
    </div>
   <h1 className="cardText">{title}</h1>
