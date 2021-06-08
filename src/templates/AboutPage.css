@@ -1,0 +1,25 @@
+.flexContainer{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #F4F2F2;
+    padding: 5rem;
+}
+
+.flexItem{
+    max-width: 600px;
+    padding: 0 3rem;
+}
+
+.textSection{
+    color: var(--primary);
+    font-size: 4rem;
+    width: 200px;
+}
+
+@media (max-width: 1000px) {
+    .flexContainer{
+        justify-content: center;
+    }
+}

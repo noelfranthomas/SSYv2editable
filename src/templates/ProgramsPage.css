@@ -1,0 +1,17 @@
+.Programs{
+    background: url('https://ucarecdn.com/19166c02-5654-4403-9d0d-cf6c1b43a0d2/') center center no-repeat;
+}
+
+.image{
+    object-fit: contain;
+}
+
+.thankYou{
+    font-size: 10rem;
+    margin: 0;
+    color: var(--primary);
+}
+
+.thankYouSub{
+    color: var(--primary);
+}

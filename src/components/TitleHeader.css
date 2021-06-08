@@ -1,0 +1,36 @@
+.TitleHeader {
+  text-align: center;
+  color: white;
+}
+
+.TitleHeader .BackgroundImage {
+  object-fit: fill;
+  opacity: 1;
+}
+
+.TitleHeader-large {
+  padding: 6vw 0 42vw 0;
+}
+
+.TitleHeader--Title {
+  font-size: 6rem;
+  margin-bottom: 0;
+}
+
+.TitleHeader .container {
+  animation: fadeIn 0.5s ease-out;
+}
+
+@media (max-width: 600px) {
+  .TitleHeader {
+    padding: 2rem 0 5rem 0;
+  }
+  .TitleHeader-large {
+    padding: 5rem 0 20rem 0;
+  }
+
+  .TitleHeader--Title {
+    font-size: 3rem;
+    margin-bottom: 0;
+  }
+}
