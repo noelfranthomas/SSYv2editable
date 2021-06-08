@@ -15,5 +15,5 @@ meta:
 
 Have questions, comments, or concerns?
 
-We're listening! Fell free to get in touch with us through any of our social media platforms or fill out the form. We will respond as soon as we can!
+We're listening! Feel free to get in touch with us through any of our social media platforms or fill out the form. We will respond as soon as we can!
 
