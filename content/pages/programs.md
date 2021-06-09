@@ -13,10 +13,10 @@ accordionTwo:
     bold: We aim to provide youth with a safe space to interact and feel a sense of belonging as they adjust to life and schooling in Calgary.
     title: Conversation Club
 accordionThree:
-  - description: Taciti lorem tempor quam vestibulum dis habitasse
-    bold: We focus on how we can help individuals get the education that they deserve.
+  - description: In the future, computational technologies will be more critical than ever. Having a solid introduction to computers and related tools will create more opportunities and access to otherwise unimaginable possibilities. Our team, is dedicated to bring this kind of education to our community.
+    bold: We help children accross the board gain access to computational tools.
     title: Kids Can Code
 meta:
-  description: This page describes the club and the executives that made it possible.
-  title: About Us
+  description: This page describes the club activities and programs for the community.
+  title: Programs
 ---

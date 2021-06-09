@@ -12,6 +12,7 @@
 1. Update vulnerable dependencies and remove unused ones.
 2. Design and implement 'Get Involved' page.
 3. Fix faulty AJAXForm
+4. Fix problematic scaling (mobile) in programs.js
 
 **CMS**
 
