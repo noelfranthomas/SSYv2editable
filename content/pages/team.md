@@ -10,7 +10,7 @@ gallery:
     title: Christine Kim
     subtitle: President
   - alt: Haris Ahmad
-    image: https://ucarecdn.com/d7d0f518-ad8a-4f40-8182-d7a3c1e31c07/20210628_18_02_086650600.jpg
+    image: https://ucarecdn.com/cd91ae29-3aa8-4fe8-8c01-4918f5d4f556/harisforkssacademic.png
     title: Haris Ahmad
     subtitle: Vice President
   - alt: Temoor Tayyab
