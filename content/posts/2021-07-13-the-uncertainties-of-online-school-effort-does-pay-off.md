@@ -3,7 +3,7 @@ template: SinglePost
 title: "The Uncertainties of Online School: Effort Does Pay Off"
 status: Published
 date: 2021-07-12
-featuredImage: https://ucarecdn.com/99d3a017-ce48-4652-81a7-7d88b6568092/
+featuredImage: https://ucarecdn.com/f55639e1-1cca-4dee-b281-3dd4275defbb/
 excerpt: Online school was troublesome and our volunteers were more than willing
   to help.
 categories:
@@ -11,7 +11,7 @@ categories:
 ---
 As the Stars for Sheltered Youth community grew, we were hit by the uncertainties posed by the pandemic. While it was not ideal, the team was able to adjust well in engaging our volunteers and students. One of those volunteers who remained very active throughout the school year is Danielle Korsud. Danielle is an incoming third-year undergraduate student for the Biomedical Science program at the University of Calgary. She taught swimming lessons at YMCA, though this is her first time tutoring. SSY invited her for a quick conversation regarding her experience with the club. 
 
-![Danielle Korsud, a SSY volunteer tutor](https://ucarecdn.com/773a632a-5756-4ced-9f83-7d9a83726697/ "Danielle Korsud")
+![Danielle Korsud, a SSY volunteer tutor](https://ucarecdn.com/f55639e1-1cca-4dee-b281-3dd4275defbb/ "Danielle Korsud")
 
 “Tutoring has always been something in the back of my head. I was like, ‘I’m just gonna give it a go and see how it goes.’” Danielle heard about the club from her friend who is currently one of our executive members. With the pandemic interrupting her first year of university, she realized she had to be “very diligent with how I planned out my time and then have a schedule and get involved with clubs like this one.” 
 
