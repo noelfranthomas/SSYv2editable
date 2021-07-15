@@ -9,7 +9,7 @@ excerpt: Online school was troublesome and our volunteers were more than willing
 categories:
   - category: News
 ---
-As the Stars for Sheltered Youth community grew, we were hit by the uncertainties posed by the pandemic. While it was not ideal, the team was able to adjust well in engaging our volunteers and students. One of those volunteers who remained very active throughout the school year is Danielle Korsud. Danielle is an incoming third-year undergraduate student for the Biomedical Science program at the University of Calgary. She taught swimming lessons at YMCA, though this is her first time tutoring. SSY invited her for a quick conversation regarding her experience with the club. 
+As the Stars for Sheltered Youth community grew, we were hit by the uncertainties posed by the pandemic. While it was not ideal, the team was able to adjust well in engaging our volunteers and students. One of those volunteers who remained very active throughout the school year is Danielle Korsrud. Danielle is an incoming third-year undergraduate student for the Biomedical Science program at the University of Calgary. She taught swimming lessons at YMCA, though this is her first time tutoring. SSY invited her for a quick conversation regarding her experience with the club. 
 
 ![Danielle Korsud, a SSY volunteer tutor](https://ucarecdn.com/f55639e1-1cca-4dee-b281-3dd4275defbb/ "Danielle Korsud")
 
