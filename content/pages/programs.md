@@ -5,7 +5,7 @@ title: This is what we do
 featuredImage: 'https://ucarecdn.com/421c588b-6fe5-4055-be1b-52212ff20d66/'
 subtitle: 'Interested? Reach out to us.'
 accordionOne:
-  - description: Stars for Sheltered Youth also recognizes the possible struggle for underserved youth to make it to specific locations in Calgary for tutoring. As a result, members of Stars for Sheltered Youth will be assigned to sectors of the city based on where they live, ensuring that all locations can be covered and youth are able to receive academic aid in an environment they feel comfortable in.
+  - description: Stars for Scholarly Youth also recognizes the possible struggle for underserved youth to make it to specific locations in Calgary for tutoring. As a result, members of Stars for Scholarly Youth will be assigned to sectors of the city based on where they live, ensuring that all locations can be covered and youth are able to receive academic aid in an environment they feel comfortable in.
     bold: We focus on how we can help individuals get the education that they deserve.
     title: One on One Tutoring
 accordionTwo:

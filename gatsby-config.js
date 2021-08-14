@@ -2,8 +2,8 @@ const postcssPresetEnv = require('postcss-preset-env')
 
 module.exports = {
   siteMetadata: {
-    title: 'Stars For Sheltered Youth',
-    siteUrl: 'https://www.starsforshelteredyouth.com'
+    title: 'Stars For Scholarly Youth',
+    siteUrl: 'https://www.starsforscholarlyyouth.com'
   },
   plugins: [
     'gatsby-plugin-react-helmet',
@@ -19,7 +19,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: 'Stars For Sheltered Youth',
+        name: 'Stars For Scholarly Youth',
         short_name: 'SSY',
         start_url: '/',
         background_color: '#00C2BD',
