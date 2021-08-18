@@ -13,7 +13,7 @@ export default () => (
             Stars For Sheltered Youth
           </h3>
           <i className="taCenter">
-           "Stars for Sheltered Youth (SSY) is a University of Calgary club that seeks to establish equal opportunities and extracurricular excellence for youth in shelters and foster homes."
+           "Stars for Scholarly Youth (SSY) is a University of Calgary club that seeks to establish equal opportunities and extracurricular excellence for youth in shelters and foster homes."
           </i>
         </div>
       </div>
@@ -22,7 +22,7 @@ export default () => (
     <hr width="70%" size="2" align="center" />
 
     <div className="section taCenter">
-      © Stars for Sheltered Youth {new Date().getFullYear()}
+      © Stars for Scholarly Youth {new Date().getFullYear()}
     </div>
   </div>
 )

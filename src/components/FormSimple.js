@@ -5,7 +5,7 @@ import './Form.css'
 export default ({
   name = 'Simple Form',
   subject = '', // optional subject of the notification email
-  action = ''
+  action = '#'
 }) => (
   <form
     className='Form'
