@@ -5,7 +5,7 @@ export default () => (
   <div
     className="Logo"
     style={{
-      backgroundImage: `url(/favicon.ico)`
+      backgroundImage: `url(/SSY_LOGOback.png)`
     }}
   />
 )
