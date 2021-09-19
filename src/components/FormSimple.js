@@ -11,8 +11,8 @@ export default ({
     className='Form'
     name={name}
     action={action}
-    data-netlify=''
-    data-netlify-honeypot='_gotcha'
+    method="POST"
+    data-netlify='true'
   >
     <label className='Form--Label'>
     <div style={{color: "var(--primary)", fontWeight: "700"}}>Name</div>
