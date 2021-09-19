@@ -58,9 +58,9 @@ class Form extends React.Component {
 
     return (
       <Fragment>
-        <Helmet>
+        {/* <Helmet>
           <script src="https://www.google.com/recaptcha/api.js" />
-        </Helmet>
+        </Helmet> */}
         <form
           className="Form"
           name={name}
@@ -138,10 +138,10 @@ class Form extends React.Component {
             />
             <span>Get news updates</span>
           </label>
-          <div
+          {/* <div
             className="g-recaptcha"
             data-sitekey="6LfblXocAAAAABdiXpU7fDRAFh2IAB8PcpU35LmZ"
-          />
+          /> */}
           <br/>
           {!!subject && <input type="hidden" name="subject" value={subject} />}
           <input type="hidden" name="form-name" value={name} />
