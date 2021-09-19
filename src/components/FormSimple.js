@@ -4,7 +4,7 @@ import './Form.css'
 
 export default ({
   name = 'Simple Form',
-  subject = '', // optional subject of the notification email
+  subject = 'Form submitted', // optional subject of the notification email
   action = '#'
 }) => (
   <form
@@ -15,6 +15,7 @@ export default ({
     data-netlify-honeypot='_gotcha'
   >
     <label className='Form--Label'>
+    <div style={{color: "var(--primary)", fontWeight: "700"}}>Name</div>
       <input
         className='Form--Input'
         type='text'
@@ -24,6 +25,7 @@ export default ({
       />
     </label>
     <label className='Form--Label'>
+    <div style={{color: "var(--primary)", fontWeight: "700"}}>Email</div>
       <input
         className='Form--Input'
         type='email'
@@ -48,6 +50,7 @@ export default ({
       </select>
     </label>
     <label className='Form--Label'>
+      <div style={{color: "var(--primary)", fontWeight: "700"}}>Message</div>
       <textarea
         className='Form--Input Form--Textarea'
         placeholder='Message'
