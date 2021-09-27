@@ -35,20 +35,20 @@ export const HomePageTemplate = ({ title, featuredImage, mstatement }) => (
     <section className="section">
       <div className="container cardContainer">
         <Card 
-          title="News"
-          color="yellow"
-          link="/news"
-          image="https://ucarecdn.com/574cc9b5-3792-4916-9981-2b883fec3173/"/>
-        <Card 
-          title="Partners"
+          title="Request a tutor"
           color="pink"
-          link="/partners"
+          link="https://forms.gle/3umhabMAt1eCENz68"
           image="https://ucarecdn.com/d6ddbb35-ed64-4161-a82f-ad8e0285caaa/"/>
         <Card 
-          title="Volunteer"
+          title="Volunteer with us"
           color="green"
           link="https://docs.google.com/forms/d/e/1FAIpQLSdmHUIeoXiPvhunvUIxb-zoDlOf9wg2wAi4_BamdtRVC6-n3Q/viewform"
           image="https://ucarecdn.com/a356c248-987e-499e-be7b-f473ba7f3b5d/"/>
+        <Card 
+          title="Read our stories"
+          color="yellow"
+          link="/news"
+          image="https://ucarecdn.com/574cc9b5-3792-4916-9981-2b883fec3173/"/>
       </div>
     </section>
 
