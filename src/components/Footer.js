@@ -10,7 +10,7 @@ export default () => (
             <FooterLogo />
           </div>
           <h3 className="logo vertPadding taCenter">
-            Stars For Sheltered Youth
+            Stars For Scholarly Youth
           </h3>
           <i className="taCenter">
            "Stars for Scholarly Youth (SSY) is a University of Calgary club that seeks to establish equal opportunities and extracurricular excellence for youth in shelters and foster homes."
