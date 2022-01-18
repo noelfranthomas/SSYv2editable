@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-contact-page-js",
+    "path": "/contact/",
+    "result": {"data":{"page":{"frontmatter":{"meta":{"title":"Contact Us","description":"Contact us through our social media platforms or fill out the form","noindex":null,"canonicalLink":null},"template":"ContactPage","address":"University of Calgary","email":"starsfsy@gmail.com","facebook":"Facebook","instagram":"Instagram"},"html":"<h1>Get in touch with us!</h1>\n<p>Have questions, comments, or concerns?</p>\n<p>We're listening! Feel free to get in touch with us through any of our social media platforms or fill out the form. We will respond as soon as we can!</p>"}},"pageContext":{"id":"4c2d7154-494a-5d77-a7ac-75825f4e677a"}},
+    "staticQueryHashes": ["2001315320"]}
