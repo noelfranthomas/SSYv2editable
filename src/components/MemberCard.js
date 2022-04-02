@@ -6,7 +6,8 @@ import './MemberCard.css'
 const MemberCard = ({
   title,
   image,
-  subtitle
+  subtitle,
+  about
 }) => {
   return (
 <div className="MemberCard">
@@ -14,6 +15,7 @@ const MemberCard = ({
         <div class="info">
             <h1>{title}</h1>
             <p>{subtitle}</p>
+            <p>{about}</p>
         </div>
 </div>
     
